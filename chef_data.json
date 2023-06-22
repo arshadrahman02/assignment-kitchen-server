@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "chef_name": "Gwyn",
+    "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "years_of_experience": 5,
+    "numbers_Of_recipes": 100,
+    "likes": 100
+  },
+  {
+    "id": 2,
+    "chef_name": "Debera",
+    "chef_picture": "https://images.pexels.com/photos/2102934/pexels-photo-2102934.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "years_of_experience": 10,
+    "numbers_Of_recipes": 220,
+    "likes": 200
+  },
+  {
+    "id": 3,
+    "chef_name": "Becky",
+    "chef_picture": "https://images.pexels.com/photos/1587830/pexels-photo-1587830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "years_of_experience": 6,
+    "numbers_Of_recipes": 324,
+    "likes": 325
+  },
+  {
+    "id": 4,
+    "chef_name": "Ambur",
+    "chef_picture": "https://images.pexels.com/photos/4253312/pexels-photo-4253312.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "years_of_experience": 4,
+    "numbers_Of_recipes": 144,
+    "likes": 435
+  },
+  {
+    "id": 5,
+    "chef_name": "Friederike",
+    "chef_picture": "https://images.pexels.com/photos/4252137/pexels-photo-4252137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "years_of_experience": 10,
+    "numbers_Of_recipes": 355,
+    "likes": 5642
+  },
+  {
+    "id": 6,
+    "chef_name": "Jerrie",
+    "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "years_of_experience": 15,
+    "numbers_Of_recipes": 600,
+    "likes": 6125
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "chef_name": "Mureil",
+    "bio": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+    "email": "mdearth0@a8.net",
+    "likes": 1,
+    "numbers_of_recipes": 4,
+    "years_of_experience ": 8,
+    "recipe_id": 1,
+    "ingredients": "Pesto Pasta,Garlic,Pine nuts,Parmesan cheese",
+    "ratings": 4,
+    "recipes": [
+      {
+        "name": "Pesto Pasta",
+
+        "picture_url": "https://example.com/pesto-pasta.jpg"
+      },
+      {
+        "name": "Chicken Stir-Fry",
+        "ingredients": ["Chicken", "Broccoli", "Carrots", "Soy sauce", "Rice"],
+        "picture_url": "https://example.com/chicken-stir-fry.jpg"
+      },
+      {
+        "name": "Tomato Soup",
+        "ingredients": ["Tomatoes", "Onion", "Garlic", "Basil", "Cream"],
+        "picture_url": "https://example.com/tomato-soup.jpg"
+      }
+    ]
+  },
+  {
+    "chef_picture": "https://images.pexels.com/photos/2102934/pexels-photo-2102934.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "chef_name": "Angelico",
+    "Bio/Description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+    "email": "aacomb1@simplemachines.org",
+    "likes": 2,
+    "numbers_of_recipes": 8,
+    "years_of_experience ": 4,
+    "recipe_id": 2,
+    "ingredients": "Ground beef,Buns,Cheese,,Lettuce,Tomato",
+    "ratings": 5,
+
+    "recipes": [
+      {
+        "name": "Pesto Pasta",
+
+        "picture_url": "https://example.com/pesto-pasta.jpg"
+      }
+    ]
+  },
+  {
+    "chef_picture": "https://images.pexels.com/photos/1587830/pexels-photo-1587830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "chef_name": "Gustavo",
+    "Bio/Description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "email": "gvinton2@surveymonkey.com",
+    "likes": 3,
+    "numbers_of_recipes": 10,
+    "years_of_experience ": 6,
+    "recipe_id": 3,
+    "ingredients": "Pesto Pasta,Garlic,Pine nuts,Parmesan cheese",
+    "ratings": 5,
+    "recipes": [
+      {
+        "name": "Pesto Pasta",
+
+        "picture_url": "https://example.com/pesto-pasta.jpg"
+      }
+    ]
+  },
+  {
+    "chef_picture": "https://images.pexels.com/photos/4253312/pexels-photo-4253312.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "chef_name": "Birch",
+    "Bio/Description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "email": "blissemore3@va.gov",
+    "likes": 4,
+    "numbers_of_recipes": 6,
+    "years_of_experience ": 4,
+    "recipe_id": 4,
+    "ingredients": "Pesto Pasta,Garlic,Pine nuts,Parmesan cheese",
+    "ratings": 3,
+    "recipes": [
+      {
+        "name": "Pesto Pasta",
+
+        "picture_url": "https://example.com/pesto-pasta.jpg"
+      }
+    ]
+  },
+  {
+    "chef_picture": "https://images.pexels.com/photos/4252137/pexels-photo-4252137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "chef_name": "Truman",
+    "Bio/Description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+    "email": "thursey4@jugem.jp",
+    "likes": 5,
+    "numbers_of_recipes": 7,
+    "years_of_experience": 5,
+    "recipe_id": 5,
+    "ratings": 2,
+    "ingredients": "Pesto Pasta,Garlic,Pine nuts,Parmesan cheese",
+    "recipes": [
+      {
+        "name": "beri Pasta",
+
+        "picture_url": "https://images.pexels.com/photos/6006598/pexels-photo-6006598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      }
+    ]
+  },
+  {
+    "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "chef_name": "Olivero",
+    "Bio/Description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+    "email": "obathowe5@arizona.edu",
+    "likes": 6,
+    "numbers_of_recipes": 6,
+    "years_of_experience ": 6,
+    "recipe_id": 6,
+    "ratings": 4,
+    "ingredients": "Pesto Pasta,Garlic,Pine nuts,Parmesan cheese",
+
+    "recipes": [
+      {
+        "name": "Pesto Pasta",
+
+        "picture_url": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      }
+    ]
+  },
+  {
+    "chef_picture": "http://dummyimage.com/131x100.png/ff4444/ffffff",
+    "chef_name": "Trevor",
+    "Bio/Description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+    "email": "tdaber6@omniture.com",
+    "likes": 7,
+    "numbers_of_recipes": 7,
+    "years_of_experience ": 7,
+    "recipe_id": 7,
+    "ratings": 4,
+    "recipes": [
+      {
+        "name": "Pesto Pasta",
+        "ingredients": [
+          "Pasta",
+          "Basil",
+          "Garlic",
+          "Pine nuts",
+          "Parmesan cheese"
+        ],
+        "picture_url": "https://example.com/pesto-pasta.jpg"
+      }
+    ]
+  }
+]
